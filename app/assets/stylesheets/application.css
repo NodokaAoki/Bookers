@@ -90,3 +90,15 @@ textarea{
 	margin-bottom: 20px;
 	background-color: #f0f0f0;
 }
+
+ul{
+	margin: 33px;
+}
+
+.error_count{
+	margin: -7px;
+	padding: 5px;
+	font-size: 12px;
+	color: white;
+	background-color: #c00;
+}
